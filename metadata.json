@@ -1,0 +1,8 @@
+{
+  "name": "KT Buddy",
+  "description": "Smart Backlog Management & Academic Information System for tracking KT/ATKT subjects, previous semester syllabi, PYQs, study resources, exam schedules, and official result clearance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
